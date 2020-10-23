@@ -1,4 +1,4 @@
-Repo = "https://github.com/AstoriaCC/LimewireCC/raw/master/"
+Repo = "https://github.com/AstoriaFloyd/LimewireCC/raw/master/"
 Filename = "Default"
 Extension = ".dfpwm"
 Download = Repo..Filename..Extension
